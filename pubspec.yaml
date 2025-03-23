@@ -1,0 +1,52 @@
+name: kite
+description: Kagi Kite mobile app
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  flutter: 3.29.2
+  sdk: ">=3.7.0 <4.0.0"
+
+dependencies:
+  bloc: ^9.0.0
+  collection: ^1.19.1
+  equatable: ^2.0.7
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^9.1.0
+  flutter_html: ^3.0.0
+  flutter_localizations:
+    sdk: flutter
+  flutter_svg: ^2.0.17
+  get_it: ^8.0.3
+  http: ^1.3.0
+  intl: ^0.19.0
+  kite_api_client:
+    path: packages/kite_api_client
+  logger: ^2.5.0
+  shared_preferences: ^2.5.2
+  url_launcher: ^6.3.1
+
+dev_dependencies:
+  bloc_test: ^10.0.0
+  flutter_native_splash: ^2.4.5
+  flutter_test:
+    sdk: flutter
+  mocktail: ^1.0.4
+  mocktail_image_network: ^1.2.0
+  very_good_analysis: ^7.0.0
+
+flutter:
+  uses-material-design: true
+  generate: true
+
+  assets:
+    - assets/kite.svg
+
+flutter_native_splash:
+  # dart run flutter_native_splash:create
+  color: '#FEF9F3'
+  color_dark: '#18140B'
+  android_12:
+    color: '#FEF9F3'
+    color_dark: '#18140B'

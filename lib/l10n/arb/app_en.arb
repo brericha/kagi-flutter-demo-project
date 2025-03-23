@@ -1,0 +1,59 @@
+{
+    "@@locale": "en",
+
+    "appTitle": "Kite",
+
+    "loadingMessage": "News. Elevated.",
+
+    "ok": "OK",
+    "copy": "Copy",
+
+    "errorTitle": "Uh oh!",
+    "errorMessage": "There was an error fetching the news.",
+    "errorRetry": "Retry",
+    "errorDetails": "Error details",
+
+    "settingsTitle": "Settings",
+    "settingsTabGeneral": "General",
+    "settingsTheme": "Theme",
+    "settingsThemeSystem": "System",
+    "settingsThemeLight": "Light",
+    "settingsThemeDark": "Dark",
+    "settingsTabCategories": "Categories",
+    "settingsCategoriesLabel": "Tap to toggle. Drag enabled categories to reorder.",
+
+    "clusterHighlights": "Highlights",
+    "clusterPerspectives": "Perspectives",
+    "clusterGeopoliticalContext": "Geopolitical context",
+    "clusterHistoricalBackground": "Historical background",
+    "clusterInternationalReactions": "International reactions",
+    "clusterHumanitarianImpact": "Humanitarian impact",
+    "clusterEconomicImplications": "Economic implications",
+    "clusterTimeline": "Timeline of events",
+    "clusterFutureOutlook": "Future outlook",
+    "clusterKeyPlayers": "Key players",
+    "clusterTechnicalDetails": "Technical details",
+    "clusterBusinessAngleText": "Business angle",
+    "clusterBusinessAnglePoints": "Business angle",
+    "clusterScientificSignificance": "Scientific significance",
+    "clusterTravelAdvisory": "Travel advisory",
+    "clusterDestinationHighlights": "Destination highlights",
+    "clusterCulinarySignificance": "Culinary significance",
+    "clusterPerformanceStatistics": "Performance statistics",
+    "clusterLeagueStandings": "League standings",
+    "clusterDiyTips": "DIY tips",
+    "clusterDesignPrinciples": "Design principles",
+    "clusterUserExperienceImpact": "User experience impact",
+    "clusterGameplayMechanics": "Gameplay mechanics",
+    "clusterIndustryImpact": "Industry impact",
+    "clusterTechnicalSpecifications": "Technical specifications",
+    "clusterSources": "Sources",
+    "clusterActionItems": "Action items",
+    "clusterDidYouKnow": "Did you know?",
+
+    "articleCount": "{count, plural, one{{count} article} other{{count} articles}}",
+
+    "markRead": "Mark as read",
+    "markUnread": "Mark as unread",
+    "markAllRead": "Mark all as read"
+}
