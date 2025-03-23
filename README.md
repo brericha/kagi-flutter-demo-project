@@ -30,7 +30,9 @@ Kagi Flutter Demo Project
 
 ## Getting Started 🚀
 
-[Install the Flutter SDK](https://docs.flutter.dev/get-started/install). You will additionally need to install the Android or iOS SDK depending on which platform(s) you intend to build for. The Flutter installation documentation includes instructions for setting up those SDKs.
+* [Install the Flutter SDK](https://docs.flutter.dev/get-started/install). You will additionally need to install the Android or iOS SDK depending on which platform(s) you intend to build for. The Flutter installation documentation includes instructions for setting up those SDKs.
+
+*  Once Flutter is installed clone this repo and run `flutter pub get` to install dependencies before running Kite.
 
 ## Running Kite
 
@@ -52,6 +54,8 @@ $ flutter run --flavor staging --target lib/main_staging.dart
 # Production
 $ flutter run --flavor production --target lib/main_production.dart
 ```
+
+### A signed release build of Kite for Android is included in this repo. To install, copy `kite.apk` to an Android device and use a file browser to install or use `adb install kite.apk` to install to a device with developer mode enabled. To use Kite on an iOS device you will have to use one of the `flutter run` commands above. 
 
 ---
 
