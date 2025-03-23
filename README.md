@@ -20,13 +20,10 @@ Kagi Flutter Demo Project
     <tr>
         <td><img src="screenshots/Today-events.png" alt="Stories details"></td>
         <td><img src="screenshots/Today-people.png" alt="Story details"></td>
-        <td>
-            <video width="100%" controls>
-                <source src="screenshots/Demo.mp4" type="video/mp4">
-            </video>
-        </td>
     </tr>
 </table>
+
+### [Demo Video](https://youtube.com/shorts/mcNZ09ZB7yE)
 
 ## Getting Started 🚀
 
